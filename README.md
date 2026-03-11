@@ -15,7 +15,7 @@ Además de exhibir habilidades analíticas avanzadas, la arquitectura modular de
 ## 📁 Estructura del Directorio
 
 El proyecto sigue una arquitectura modular y escalable (Separation of Concerns):
-
+```
 ├── .devcontainer/          # Configuración del entorno de desarrollo (Docker/VS Code)
 ├── .streamlit/             # Configuración del tema oscuro nativo (config.toml)
 ├── pages/                  # Archivos multipágina de Streamlit (Análisis paso a paso)
@@ -25,6 +25,7 @@ El proyecto sigue una arquitectura modular y escalable (Separation of Concerns):
 ├── app.py                  # Punto de entrada principal de la aplicación
 ├── gluck_data.db           # Base de datos local (SQLite)
 └── requirements.txt        # Dependencias del proyecto
+```
 
 ## 🛠️ Requisitos e Instalación
 
