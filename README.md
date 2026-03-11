@@ -56,3 +56,5 @@ Para levantar la aplicación web en tu navegador local, ejecuta el siguiente com
     ```
 
 Esto abrirá automáticamente una pestaña en tu navegador (usualmente en http://localhost:8501) donde podrás interactuar con los datos y el simulador de consultas SQL.
+
+###### Dashboard con streamlit: https://computacionii-gluck-data.onrender.com
