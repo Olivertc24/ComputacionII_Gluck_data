@@ -1,0 +1,21 @@
+[theme]
+# Color de acento principal (Amarillo Estrellas/Luna)
+# Se aplica a widgets, barras de progreso y botones primarios
+primaryColor = "#F6D55C"
+
+# Color de fondo principal (Azul Profundo del cielo nocturno)
+backgroundColor = "#0A1828"
+
+# Color de fondo secundario (Azul Cobalto)
+# Se aplica al panel lateral (sidebar) y fondos de métricas
+secondaryBackgroundColor = "#173F5F"
+
+# Color del texto (Blanco Luna para contraste óptimo)
+textColor = "#F8FAFC"
+
+# Tipografía (serif le da un toque más artístico y clásico)
+font = "serif"
+
+[server]
+port = 8501
+enableCORS = false

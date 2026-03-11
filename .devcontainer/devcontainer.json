@@ -1,0 +1,14 @@
+{
+    "name": "Streamlit Data Science Portfolio",
+    "image": "mcr.microsoft.com/devcontainers/python:3.10",
+    "forwardPorts": [8501],
+    "postCreateCommand": "pip install streamlit pandas sqlite3 supabase",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.python",
+                "ms-toolsai.jupyter"
+            ]
+        }
+    }
+}
