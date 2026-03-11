@@ -4,8 +4,8 @@ from utils.aesthetics import aplicar_css_noche_estrellada, configurar_graficos_p
 st.set_page_config(page_title="Portafolio de Análisis", layout="wide")
 
 # Aplicar el tema artístico
-aplicar_css_noche_estrellada()
-configurar_graficos_plotly()
+aplicar_css_noche_estrellada_impresionante()
+configurar_graficos_plotly_impresionante()
 
 st.title("📊 Portafolio de Análisis y Ciencia de Datos")
 # ... resto de tu código
